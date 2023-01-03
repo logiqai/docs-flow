@@ -29,6 +29,7 @@
 * [Standalone Instance](splunk-forwarding/standalone-instance.md)
 * [List of Indexer instances](splunk-forwarding/list-of-indexer-instances.md)
 * [Indexer Discovery](splunk-forwarding/indexer-discovery.md)
+* [Metric indexes](splunk-forwarding/metric-indexes.md)
 
 ## Real-time Stream Forwarding
 
