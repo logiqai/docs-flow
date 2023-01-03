@@ -49,4 +49,6 @@
 
 ## Security Monitor Forwarding
 
-* [Page 2](security-monitor-forwarding/page-2.md)
+* [Overview](security-monitor-forwarding/overview.md)
+* [Arc Sight](security-monitor-forwarding/arc-sight.md)
+* [RSA New Witness](security-monitor-forwarding/rsa-new-witness.md)
