@@ -45,7 +45,7 @@
 
 ## Forwarding to monitoring tools
 
-* [Page 1](forwarding-to-monitoring-tools/page-1.md)
+* [DataDog Forwarding](forwarding-to-monitoring-tools/datadog-forwarding.md)
 
 ## Security Monitor Forwarding
 
