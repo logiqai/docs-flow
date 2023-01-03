@@ -42,3 +42,11 @@
 * [Overview](object-store-forwarding/overview.md)
 * [S3 Compatible](object-store-forwarding/s3-compatible.md)
 * [Azure Blob Storage](object-store-forwarding/azure-blob-storage.md)
+
+## Forwarding to monitoring tools
+
+* [Page 1](forwarding-to-monitoring-tools/page-1.md)
+
+## Security Monitor Forwarding
+
+* [Page 2](security-monitor-forwarding/page-2.md)
