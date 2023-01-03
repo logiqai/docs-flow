@@ -46,6 +46,7 @@
 ## Forwarding to monitoring tools
 
 * [DataDog Forwarding](forwarding-to-monitoring-tools/datadog-forwarding.md)
+* [New Relic Forwarding](forwarding-to-monitoring-tools/new-relic-forwarding.md)
 
 ## Security Monitor Forwarding
 
