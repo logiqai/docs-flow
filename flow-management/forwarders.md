@@ -4,22 +4,22 @@
 
 Currently, **LOGIQ** supports the below targets
 
-|                    Target                    |        Type        |                     Description                     |
-| :------------------------------------------: | :----------------: | :-------------------------------------------------: |
-|                ArcSight Logger               |  Syslog, TCP, CEF  |            Forward syslog frames over TCP           |
-|                ArcSight Logger               |     Syslog, TCP    |         Forward ArcSight CEF frames over TCP        |
-|                    DataDog                   |        JSON        |        Batched JSON forward to DataDogDataDog       |
-|        Dynatrace HTTP Event Collector        |        JSON        |          Batched JSON forward to Dynatrace          |
-|              Elastic Compatible              |        JSON        |            Send data to an Elastic index            |
-|             RSA NetWitness Syslog            |         TCP        |         Syslog forwarder for RSA Netwitness         |
-|          RSA NetWitness Syslog (CEF)         |      TCP, CEF      |       Syslog CEF forwarder for RSA Netwitness       |
-|         NewRelic HTTP Event Collector        |        JSON        |           Batched JSON forward to NewRelic          |
-|          Splunk HTTP Event Collector         |        JSON        |            Batched JSON forward to Splunk           |
-|      Splunk Universal  / Heavy Forwarder     |     Syslog, TCP    |             Syslog forwarder for Splunk             |
-|        Splunk Universal CEF Forwarder        |  Syslog, TCP, CEF  |           Syslog CEF forwarder for Splunk           |
-| Splunk Universal Forwarder / Heavy Forwarder |         S2S        |       Forward data to LOGIQ.AI in Cooked mode       |
-|                 Object Store                 |    S3 Compatible   | AWS S3, CEPH, Minio, GCP Cloud Storage, OCI Buckets |
-|                 Object Store                 | Azure Blob Storage |     Native support for Azure blob storage API's     |
+|                                                        Target                                                       |        Type        |                     Description                     |
+| :-----------------------------------------------------------------------------------------------------------------: | :----------------: | :-------------------------------------------------: |
+|                [ArcSight Logger](https://logflow-docs.logiq.ai/security-monitor-forwarding/arc-sight)               |  Syslog, TCP, CEF  |            Forward syslog frames over TCP           |
+|                [ArcSight Logger](https://logflow-docs.logiq.ai/security-monitor-forwarding/arc-sight)               |     Syslog, TCP    |         Forward ArcSight CEF frames over TCP        |
+|              [DataDog](https://logflow-docs.logiq.ai/forwarding-to-monitoring-tools/datadog-forwarding)             |        JSON        |        Batched JSON forward to DataDogDataDog       |
+| [Dynatrace HTTP Event Collector](https://logflow-docs.logiq.ai/forwarding-to-monitoring-tools/dynatrace-forwarding) |        JSON        |          Batched JSON forward to Dynatrace          |
+|     [Elastic Compatible](https://logflow-docs.logiq.ai/forwarding-to-monitoring-tools/elasticsearch-forwarding)     |        JSON        |            Send data to an Elastic index            |
+|          [RSA NetWitness Syslog](https://logflow-docs.logiq.ai/security-monitor-forwarding/rsa-new-witness)         |         TCP        |         Syslog forwarder for RSA Netwitness         |
+|       [RSA NetWitness Syslog (CEF)](https://logflow-docs.logiq.ai/security-monitor-forwarding/rsa-new-witness)      |      TCP, CEF      |       Syslog CEF forwarder for RSA Netwitness       |
+|  [NewRelic HTTP Event Collector](https://logflow-docs.logiq.ai/forwarding-to-monitoring-tools/new-relic-forwarding) |        JSON        |           Batched JSON forward to NewRelic          |
+|                                             Splunk HTTP Event Collector                                             |        JSON        |            Batched JSON forward to Splunk           |
+|                                         Splunk Universal  / Heavy Forwarder                                         |     Syslog, TCP    |             Syslog forwarder for Splunk             |
+|                                            Splunk Universal CEF Forwarder                                           |  Syslog, TCP, CEF  |           Syslog CEF forwarder for Splunk           |
+|                                     Splunk Universal Forwarder / Heavy Forwarder                                    |         S2S        |       Forward data to LOGIQ.AI in Cooked mode       |
+|                 [Object Store ](https://logflow-docs.logiq.ai/object-store-forwarding/s3-compatible)                |    S3 Compatible   | AWS S3, CEPH, Minio, GCP Cloud Storage, OCI Buckets |
+|               [Object Store](https://logflow-docs.logiq.ai/object-store-forwarding/azure-blob-storage)              | Azure Blob Storage |     Native support for Azure blob storage API's     |
 
 ### Configuring a Forwarder
 
