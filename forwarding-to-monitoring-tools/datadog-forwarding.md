@@ -17,6 +17,8 @@ To add a Datadog API key or client token:
 
 For more details on how to generate API key in DataDog you can visit this [link](https://docs.datadoghq.com/account\_management/api-app-keys/).
 
+## Steps to Create DataDog Forwarding
+
 To forward your logs to DataDog, begin by logging into LOGIQ.AI's website.
 
 * Navigate to the **`Create`** tab and select the option for **`Forwarder`**.
