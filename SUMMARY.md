@@ -48,6 +48,7 @@
 * [DataDog Forwarding](forwarding-to-monitoring-tools/datadog-forwarding.md)
 * [New Relic Forwarding](forwarding-to-monitoring-tools/new-relic-forwarding.md)
 * [Dynatrace Forwarding](forwarding-to-monitoring-tools/dynatrace-forwarding.md)
+* [Elasticsearch Forwarding](forwarding-to-monitoring-tools/elasticsearch-forwarding.md)
 
 ## Security Monitor Forwarding
 
