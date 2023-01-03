@@ -6,6 +6,8 @@ description: This page explains how to forward logs to New Relic from LOGIQ.AI
 
 To Generate API Key from New Relic, please follow the instructions in this [link](https://docs.newrelic.com/docs/logs/log-api/introduction-log-api/#setup).
 
+## Steps to Create New Relic Forwarding
+
 To forward your logs to New Relic, begin by logging into LOGIQ.AI's website.
 
 * Navigate to the **`Create`** tab and select the option for **`Forwarder`**.
