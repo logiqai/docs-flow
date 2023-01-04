@@ -26,6 +26,7 @@
 ## Splunk Forwarding
 
 * [Overview](splunk-forwarding/overview.md)
+* [LOGIQ UF Proxy App Extension](splunk-forwarding/logiq-uf-proxy-app-extension.md)
 * [Standalone Instance](splunk-forwarding/standalone-instance.md)
 * [List of Indexer instances](splunk-forwarding/list-of-indexer-instances.md)
 * [Indexer Discovery](splunk-forwarding/indexer-discovery.md)
