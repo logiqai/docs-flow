@@ -8,6 +8,6 @@ You can launch the proxy to forward data to one or more indexer instances direct
 * Version - The version of the forwarder to use. LOGIQ.AI can release new versions of the forwarder over time with newer capabilities.&#x20;
   * Latest version of plugin is **logiqai/hauler-splstos:v0.6**
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
-![Forwarder Proxy configuration via indexer discovery](<../.gitbook/assets/Screen Shot 2022-08-01 at 9.21.05 PM.png>)
+![Forwarder Proxy configuration via indexer discovery](<../../.gitbook/assets/Screen Shot 2022-08-01 at 9.21.05 PM.png>)

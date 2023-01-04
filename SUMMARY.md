@@ -26,10 +26,10 @@
 ## Splunk Forwarding
 
 * [Overview](splunk-forwarding/overview.md)
-* [LOGIQ UF Proxy App Extension](splunk-forwarding/logiq-uf-proxy-app-extension.md)
-* [Standalone Instance](splunk-forwarding/standalone-instance.md)
-* [List of Indexer instances](splunk-forwarding/list-of-indexer-instances.md)
-* [Indexer Discovery](splunk-forwarding/indexer-discovery.md)
+* [LOGIQ Forwarding Proxy App Extension](splunk-forwarding/logiq-forwarding-proxy-app-extension/README.md)
+  * [Standalone Instance](splunk-forwarding/logiq-forwarding-proxy-app-extension/standalone-instance.md)
+  * [List of Indexer instances](splunk-forwarding/logiq-forwarding-proxy-app-extension/list-of-indexer-instances.md)
+  * [Indexer Discovery](splunk-forwarding/logiq-forwarding-proxy-app-extension/indexer-discovery.md)
 * [Metric indexes](splunk-forwarding/metric-indexes.md)
 
 ## Real-time Stream Forwarding
