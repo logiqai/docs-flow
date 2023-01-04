@@ -31,6 +31,7 @@
   * [List of Indexer instances](splunk-forwarding/logiq-uf-proxy-app-extension/list-of-indexer-instances.md)
   * [Indexer Discovery](splunk-forwarding/logiq-uf-proxy-app-extension/indexer-discovery.md)
 * [Metric indexes](splunk-forwarding/metric-indexes.md)
+* [Non metric indexes](splunk-forwarding/non-metric-indexes.md)
 
 ## Real-time Stream Forwarding
 
