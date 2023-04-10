@@ -36,7 +36,7 @@ Below, an example of configuring a Splunk HTTP Event Collector is shown
     * Enter a Token name and skip to the last page and click Done&#x20;
     * Use the generated **HTTP Event Collector** key in LOGIQ
 
-    ****
+
 2.  **Creating a Splunk HTTP Event Collector on LOGIQ**
 
     * Navigate to the Creaet Forwarders page

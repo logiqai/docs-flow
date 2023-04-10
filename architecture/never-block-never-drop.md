@@ -54,7 +54,7 @@ LOGIQ.AI's LogFlow is built on Kubernetes and works with Cluster Autoscaling and
 
 
 
-<mark style="color:green;">****</mark>
+
 
 
 

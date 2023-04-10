@@ -41,6 +41,11 @@
 * [Azure Eventhub](real-time-stream-forwarding/azure-eventhub.md)
 * [Google Pub/Sub](real-time-stream-forwarding/google-pub-sub.md)
 
+## Forwarding To Data Warehouse
+
+* [Overview](forwarding-to-data-warehouse/overview.md)
+* [GCP Bigquery](forwarding-to-data-warehouse/gcp-bigquery.md)
+
 ## Object Store Forwarding
 
 * [Overview](object-store-forwarding/overview.md)
