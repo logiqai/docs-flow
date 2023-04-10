@@ -16,7 +16,7 @@
 * Add required columns for the table
 * Provide `name` for the forwarder and click `create`
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Create Bigquery Forwarder with existing table
 
@@ -35,15 +35,15 @@
 * Click `edit` icon in the big query forwarder for which you need to add columns in the schema
 * Click on `add column` to update the schema
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## Mapping logs to Bigquery table
 
-When you forward your logs to bigquery, the fields in the log will be mapped to the column in the table. By default, LogiqAI maps the schema from the forwarder to the facet in the logs. It will insert the value for the facet as a value to the column in the table.
+When you forward your logs to BigQuery, the fields in the log will be mapped to the column in the table. By default, LogiqAI maps the schema from the forwarder to the facet in the logs. It will insert the value for the facet as a value to the column in the table.
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-04-10 18-07-03.png" alt=""><figcaption><p>facets</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Columns in bigquery table</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Columns in bigquery table</p></figcaption></figure>
 
-To change the default mapping behavior, create a forward rule for the namespace and application by renaming the facet with the column name. This will help you to manage the mappings between your log and the bigquery table schema.
+To change the default mapping behavior, [create a forward rule](https://docs.logiq.ai/data-management/forward) for the namespace and application by renaming the facet with the column name. This will help you to manage the mappings between your log and the BigQuery table schema.
 
