@@ -58,6 +58,7 @@
 * [New Relic Forwarding](forwarding-to-monitoring-tools/new-relic-forwarding.md)
 * [Dynatrace Forwarding](forwarding-to-monitoring-tools/dynatrace-forwarding.md)
 * [Elasticsearch Forwarding](forwarding-to-monitoring-tools/elasticsearch-forwarding.md)
+* [Coralogix Forwarding](forwarding-to-monitoring-tools/coralogix-forwarding.md)
 
 ## Security Monitor Forwarding
 
