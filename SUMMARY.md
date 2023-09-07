@@ -59,6 +59,7 @@
 * [Dynatrace Forwarding](forwarding-to-monitoring-tools/dynatrace-forwarding.md)
 * [Elasticsearch Forwarding](forwarding-to-monitoring-tools/elasticsearch-forwarding.md)
 * [Coralogix Forwarding](forwarding-to-monitoring-tools/coralogix-forwarding.md)
+* [Azure Log Analytics Forwarding](forwarding-to-monitoring-tools/azure-log-analytics-forwarding.md)
 
 ## Security Monitor Forwarding
 
