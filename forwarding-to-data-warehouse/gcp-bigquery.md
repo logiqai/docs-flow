@@ -16,7 +16,7 @@
 * Add required columns for the table
 * Provide `name` for the forwarder and click `create`
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Create Bigquery Forwarder with existing table
 
@@ -43,7 +43,7 @@ When you forward your logs to BigQuery, the fields in the log will be mapped to 
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-04-10 18-07-03.png" alt=""><figcaption><p>facets</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Columns in bigquery table</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Columns in bigquery table</p></figcaption></figure>
 
 To change the default mapping behavior, [create a forward rule](https://docs.logiq.ai/data-management/forward) for the namespace and application by renaming the facet with the column name. This will help you to manage the mappings between your log and the BigQuery table schema.
 

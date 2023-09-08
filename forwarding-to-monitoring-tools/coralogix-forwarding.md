@@ -14,6 +14,6 @@
 * Provide `Private Key` for ingesting logs
 * Click `Create` button
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (5).png>)
 
 After the creation of forwarder, it can be mapped to any namespace and application which sends logs to coralogix platform.
