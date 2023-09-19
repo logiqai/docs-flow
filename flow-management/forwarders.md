@@ -1,8 +1,8 @@
 # Forwarders
 
-**LOGIQ** provides multiple targets to connect with your desired destination to collect, optimize, store, route, and replay your observability data – whenever, wherever you need it.&#x20;
+**Apica** provides multiple targets to connect with your desired destination to collect, optimize, store, route, and replay your observability data – whenever, wherever you need it.&#x20;
 
-Currently, **LOGIQ** supports the below targets
+Currently, **Apica** supports the below targets
 
 |                                                        Target                                                       |        Type        |                     Description                     |
 | :-----------------------------------------------------------------------------------------------------------------: | :----------------: | :-------------------------------------------------: |
@@ -17,7 +17,7 @@ Currently, **LOGIQ** supports the below targets
 |                                             Splunk HTTP Event Collector                                             |        JSON        |            Batched JSON forward to Splunk           |
 |                                         Splunk Universal  / Heavy Forwarder                                         |     Syslog, TCP    |             Syslog forwarder for Splunk             |
 |                                            Splunk Universal CEF Forwarder                                           |  Syslog, TCP, CEF  |           Syslog CEF forwarder for Splunk           |
-|                                     Splunk Universal Forwarder / Heavy Forwarder                                    |         S2S        |       Forward data to LOGIQ.AI in Cooked mode       |
+|                                     Splunk Universal Forwarder / Heavy Forwarder                                    |         S2S        |       Forward data to Apica in Cooked mode       |
 |                 [Object Store ](https://logflow-docs.logiq.ai/object-store-forwarding/s3-compatible)                |    S3 Compatible   | AWS S3, CEPH, Minio, GCP Cloud Storage, OCI Buckets |
 |               [Object Store](https://logflow-docs.logiq.ai/object-store-forwarding/azure-blob-storage)              | Azure Blob Storage |     Native support for Azure blob storage API's     |
 
@@ -34,10 +34,10 @@ Below, an example of configuring a Splunk HTTP Event Collector is shown
     * Locate the Data Inputs sub-menu
     * Click on the New Token option which is located on the top banner
     * Enter a Token name and skip to the last page and click Done&#x20;
-    * Use the generated **HTTP Event Collector** key in LOGIQ
+    * Use the generated **HTTP Event Collector** key in Apica
 
 
-2.  **Creating a Splunk HTTP Event Collector on LOGIQ**
+2.  **Creating a Splunk HTTP Event Collector on Apica**
 
     * Navigate to the Creaet Forwarders page
     * Click on Forwarders

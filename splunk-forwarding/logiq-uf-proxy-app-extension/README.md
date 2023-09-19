@@ -1,4 +1,4 @@
-# LOGIQ Forwarding Proxy App Extension
+# Apica Forwarding Proxy App Extension
 
 The UF Proxy app extension allows connectivity to a splunk indexer using a variety of supported options such as a standalone indexer, list of indexers, or using indexer cluster auto discovery.
 

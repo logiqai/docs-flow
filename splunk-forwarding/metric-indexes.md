@@ -1,14 +1,14 @@
 # Metric indexes
 
-LOGIQ.AI supports forwarding to splunk metrics indexes. Both old metrics format and new format with multiple metrics per event are supported.
+Apica supports forwarding to splunk metrics indexes. Both old metrics format and new format with multiple metrics per event are supported.
 
 Creating a splunk metrics forwarder is straight forward and uses the _"\_metric"_ type when creating the forwarder
 
 {% hint style="warning" %}
-The following formation is obtained from the LOGIQ UF Proxy App extension for the forwarder
+The following formation is obtained from the Apica UF Proxy App extension for the forwarder
 
-1. The **"Host"** key is set to the LOGIQ UF Proxy App extension that was created and should not use the Splunk host name.
-2. The **"Password"** is set to the hec\_token from the LOGIQ UF Proxy App extension
+1. The **"Host"** key is set to the Apica UF Proxy App extension that was created and should not use the Splunk host name.
+2. The **"Password"** is set to the hec\_token from the Apica UF Proxy App extension
 3. The **"port"** is set to 8088
 4. The **"user"** is set to **"admin"**
 {% endhint %}

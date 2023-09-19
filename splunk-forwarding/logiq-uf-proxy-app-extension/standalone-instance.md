@@ -5,7 +5,7 @@ You can launch the proxy to forward data to a Splunk standalone instance. The pr
 * Index to send data to
 * Standalone Splunk instance URI - Host:Port e.g. mysplunk.instance:9997
 * Workers - To scale up forwarding you can launch with multiple workers
-* Version - The version of the forwarder to use. LOGIQ.AI can release new versions of the forwarder over time with newer capabilities.
+* Version - The version of the forwarder to use. Apica can release new versions of the forwarder over time with newer capabilities.
   * Latest version of plugin is **logiqai/hauler-splstos:v0.6**
 
 ![](<../../.gitbook/assets/image (4) (1).png>)

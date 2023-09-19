@@ -4,7 +4,7 @@ description: Google Pub/Sub is the GCP managed service for real-time stream proc
 
 # Google Pub/Sub
 
-LOGIQ.AI's LogFlow can be used to push data to a PubSub topic with just a few clicks. You can forward data as is, morph the data by stripping down attributes or pick and choose the fields that you want to be sent to the Google PubSub topic
+Apica's LogFlow can be used to push data to a PubSub topic with just a few clicks. You can forward data as is, morph the data by stripping down attributes or pick and choose the fields that you want to be sent to the Google PubSub topic
 
 ### Pre-requisites
 

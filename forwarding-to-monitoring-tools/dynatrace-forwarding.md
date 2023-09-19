@@ -1,5 +1,5 @@
 ---
-description: This page explains how to forward logs to New Relic from LOGIQ.AI
+description: This page explains how to forward logs to New Relic from Apica
 ---
 
 # Dynatrace Forwarding
@@ -8,7 +8,7 @@ To Generate API Key from Dynatrace, please follow the instructions in this [link
 
 ## Steps to Create New Relic Forwarding
 
-To forward your logs to Dynatrace, begin by logging into LOGIQ.AI's website.
+To forward your logs to Dynatrace, begin by logging into Apica's website.
 
 * Navigate to the **`Create`** tab and select the option for **`Forwarder`**.
 * Next, choose **`Dynatrace(HTTP event collector)`** from the available options; this will bring up a new form with fields such as `API Key`, `Host`, `Tags`, etc. Fill out the required data in these fields and click **`Create`**.

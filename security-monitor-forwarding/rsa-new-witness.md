@@ -2,11 +2,11 @@
 
 RSA New Witness is a powerful security tool developed by RSA Security that helps organizations detect and respond to threats from within their network. It provides advanced analytics, such as machine learning, to quickly identify malicious activity and alert users of potential issues.&#x20;
 
-LogiqAI helps you to forward logs to the RSA New Witness using the forwarder plugin.
+Apica helps you to forward logs to the RSA New Witness using the forwarder plugin.
 
 ## Supported Forwarding Formats
 
-LogiqAI enables users to quickly and easily forward logs in various formats to security tools, simplifying processing and analysis. The supported formats are,
+Apica enables users to quickly and easily forward logs in various formats to security tools, simplifying processing and analysis. The supported formats are,
 
 * Syslog
 * Syslog CEF
@@ -17,7 +17,7 @@ LogiqAI enables users to quickly and easily forward logs in various formats to s
 
 * Expand the `Create` menu from the navigation bar and click `Forwarder`&#x20;
 * Select the `RSA New Witness` based on the type of format you want to use
-* Click `New Forwarder` button at the top right corner
+* Click `New Forwarder` button in the top right corner
 * Provide the host of the New Witness and the name of the forwarder
 * Click `Create`
 

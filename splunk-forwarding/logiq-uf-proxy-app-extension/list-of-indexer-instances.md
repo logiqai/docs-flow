@@ -5,7 +5,7 @@ You can launch the proxy to forward data to a one or more indexer instances dire
 * Index to send data to
 * Comma separated list of Splunk Indexer URI's - Host:Port e.g. idx1:9997,idx2:9997
 * Workers - To scale up forwarding you can launch with multiple workers
-* Version - The version of the forwarder to use. LOGIQ.AI can release new versions of the forwarder over time with newer capabilities.&#x20;
+* Version - The version of the forwarder to use. Apica can release new versions of the forwarder over time with newer capabilities.&#x20;
   * Latest version of plugin is **logiqai/hauler-splstos:v0.6**
 
 ![](<../../.gitbook/assets/image (6).png>)

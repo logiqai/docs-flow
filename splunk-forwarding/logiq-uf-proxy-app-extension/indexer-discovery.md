@@ -5,7 +5,7 @@ You can launch the proxy to forward data to one or more indexer instances direct
 * Index to send data to
 * Cluster manager API endpoint for indexer discovery  - e.g. _https://mysplunk.clustermanager:8089_
 * Workers - To scale up forwarding you can launch with multiple workers
-* Version - The version of the forwarder to use. LOGIQ.AI can release new versions of the forwarder over time with newer capabilities.&#x20;
+* Version - The version of the forwarder to use. Apica can release new versions of the forwarder over time with newer capabilities.&#x20;
   * Latest version of plugin is **logiqai/hauler-splstos:v0.6**
 
 ![](<../../.gitbook/assets/image (5) (1).png>)

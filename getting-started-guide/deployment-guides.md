@@ -4,7 +4,7 @@ description: Deployment instructions for running LogFlow in your environment
 
 # Deployment guides
 
-LOGIQ.AI's LogFlow deployment can be found in our platform deployment guides hosted below.
+Apica's LogFlow deployment can be found in our platform deployment guides hosted below.
 
 {% embed url="https://docs.logiq.ai/deploying-logiq/logiq-saas" %}
 

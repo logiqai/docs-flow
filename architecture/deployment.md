@@ -1,6 +1,6 @@
 ---
 description: >-
-  LOGIQ.AI's LOGFLOW is built as a native Kubernetes platform and is available
+  Apica's LOGFLOW is built as a native Kubernetes platform and is available
   as a HELM chart for deployment on any Kubernetes environment.
 ---
 

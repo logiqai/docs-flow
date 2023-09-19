@@ -1,8 +1,8 @@
 # Overview
 
-You may want to store all the log messages as raw file and you may want to use it in future for further processing.
+You may want to store all the log messages as raw file, and you may want to use it in future for further processing.
 
-LogiqAI provides a forwarder plugin for forwarding messages to object store. The log messages are stored as text file in the object store where each text file will be having collection of logs messages.
+Apica provides a forwarder plugin for forwarding messages to object store. The log messages are stored as text file in the object store where each text file will be having collection of logs messages.
 
 The maximum file size in the object store for forwarding logs can be configured using the `Maximum forwarding object size` . You can also configure the interval for flushing logs to object store using the `flush to bucket interval`&#x20;
 

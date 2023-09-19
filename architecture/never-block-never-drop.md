@@ -30,7 +30,7 @@ When forwarding data to target systems, it is not uncommon to have network parti
 
 The only way to address the pipeline source and destination mismatch is to have an attached infinite data reservoir. This has traditionally not been possible due to the limitations of disk-based designs.&#x20;
 
-LOGIQ.AI solves this with InstaStore. Our storage layer is built on an object-store as a primary storage layer, but unlike most approaches to using object storage, which use it as a secondary tier, we use it as a primary tier and index 100% of the data. All our data as well as metadata is stored in object storage.
+Apica solves this with InstaStore. Our storage layer is built on an object-store as a primary storage layer, but unlike most approaches to using object storage, which use it as a secondary tier, we use it as a primary tier and index 100% of the data. All our data as well as metadata is stored in object storage.
 
 Our approach provides instant elasticity in terms of storage requirements with ZeroStorageTax. No need to expand storage, throttle senders, scramble to handle more throughput needs. It is infinite and always attached to the LogFlow system.
 
@@ -48,7 +48,7 @@ Build your data pipelines from day 0 with infinite storage that can act as an en
 
 ### Elastic architecture with Kubernetes
 
-LOGIQ.AI's LogFlow is built on Kubernetes and works with Cluster Autoscaling and Horizontal Pod Autoscaling providing instant throughput on-demand in high volume data environments.
+Apica's LogFlow is built on Kubernetes and works with Cluster Autoscaling and Horizontal Pod Autoscaling providing instant throughput on-demand in high volume data environments.
 
 ![Native Kubernetes design makes platform elastically scale on-demand](../.gitbook/assets/ArchitectureBlock.png)
 

@@ -2,11 +2,11 @@
 
 ArcSight is a security management tool designed to track and analyze data insights and it ensures compliance with policy guidelines. It provides organizations with the real-time security information that can be used to detect and respond to threats quickly and effectively.
 
-LogiqAI helps you to forward logs to the arc sight using the forwarder plugin.
+Apica helps you to forward logs to the arc sight using the forwarder plugin.
 
 ## Supported Forwarding Formats
 
-LogiqAI enables users to quickly and easily forward logs in various formats to security tools, simplifying processing and analysis. The supported formats are,
+Apica enables users to quickly and easily forward logs in various formats to security tools, simplifying processing and analysis. The supported formats are,
 
 * Syslog CEF
 * ArcSight CEF

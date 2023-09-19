@@ -1,5 +1,5 @@
 ---
-description: This page explains how to forward logs to DataDog from LOGIQ.AI
+description: This page explains how to forward logs to DataDog from Apica
 ---
 
 # DataDog Forwarding
@@ -15,11 +15,11 @@ To add a Datadog API key or client token:
 3. Enter a name for your key or token.
 4. Click **Create API key** or **Create Client Token**.
 
-For more details on how to generate API key in DataDog you can visit this [link](https://docs.datadoghq.com/account\_management/api-app-keys/).
+For more details on how to generate an API key in DataDog, you can visit this [link](https://docs.datadoghq.com/account\_management/api-app-keys/).
 
 ## Steps to Create DataDog Forwarding
 
-To forward your logs to DataDog, begin by logging into LOGIQ.AI's website.
+To forward your logs to DataDog, begin by logging into Apica's website.
 
 * Navigate to the **`Create`** tab and select the option for **`Forwarder`**.
 * Next, choose **`DataDog(JSON)`** from the available options; this will bring up a new form with fields such as `API Key`, `Buffer Size`, `Host` and `Tags`. Fill out the required data in these fields and click **`Create`**.

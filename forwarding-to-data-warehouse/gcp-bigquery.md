@@ -39,7 +39,7 @@
 
 ## Mapping logs to Bigquery table
 
-When you forward your logs to BigQuery, the fields in the log will be mapped to the column in the table. By default, LogiqAI maps the schema from the forwarder to the facet in the logs. It will insert the value for the facet as a value to the column in the table.
+When you forward your logs to BigQuery, the fields in the log will be mapped to the column in the table. By default, Apica maps the schema from the forwarder to the facet in the logs. It will insert the value for the facet as a value to the column in the table.
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-04-10 18-07-03.png" alt=""><figcaption><p>facets</p></figcaption></figure>
 

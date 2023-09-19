@@ -1,5 +1,5 @@
 ---
-description: This page explains how to forward logs to New Relic from LOGIQ.AI
+description: This page explains how to forward logs to New Relic from Apica
 ---
 
 # Elasticsearch Forwarding
@@ -8,7 +8,7 @@ To Generate API Key from Elasticsearch, please follow the instructions in this [
 
 ## Steps to Create Elasticsearch Forwarding
 
-To forward your logs to Elasticsearch, begin by logging into LOGIQ.AI's website.
+To forward your logs to Elasticsearch, begin by logging into Apica's website.
 
 * Navigate to the **`Create`** tab and select the option for **`Forwarder`**.
 * Next, choose **`Elasticsearch(HTTP event collector)`** from the available options; this will bring up a new form with fields such as `API Token`, `Buffer Size`, `Index`, etc. Fill out the required data in these fields and click **`Create`**.

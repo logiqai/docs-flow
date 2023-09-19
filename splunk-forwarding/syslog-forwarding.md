@@ -8,7 +8,7 @@ There are two types for syslog forwarding that are supported
 2. Syslog CEF
 
 {% hint style="info" %}
-LOGIQ does not support sending to syslog UDP ports. Only TCP ports are supported.
+Apica does not support sending to syslog UDP ports. Only TCP ports are supported.
 {% endhint %}
 
 Create the appropriate forwarder type when creating the forwarder
