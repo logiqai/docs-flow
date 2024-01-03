@@ -1,10 +1,10 @@
 ---
-description: This page explains how to forward logs to New Relic from Apica
+description: This page explains how to forward logs to Dynatrace from Apica.
 ---
 
 # Dynatrace Forwarding
 
-To Generate API Key from Dynatrace, please follow the instructions in this [link](https://www.dynatrace.com/support/help/dynatrace-api/basics/dynatrace-api-authentication).
+To Generate an API Key from Dynatrace, please follow the instructions in this [link](https://www.dynatrace.com/support/help/dynatrace-api/basics/dynatrace-api-authentication).
 
 ## Steps to Create New Relic Forwarding
 
@@ -22,8 +22,8 @@ Type:          _json
 Name:          Dynatrace
 </code></pre>
 
-* Next, head over to the **`Explore`** page and pick out a namespace you wish to forward your logs to Dynatrace from.
-* Click on the three dots icon located next to the calendar and opt for **`Map Forwarder`**; this will open a new modal which allows you to choose the newly created Dynatrace forwarder schema (this can be identified via its Dynatrace icon).
+* Next, head over to the **`Explore`** page and pick out a namespace you wish to forward your logs to Dynatrace.
+* Click on the three dots icon located next to the calendar and opt for **`Map Forwarder`**; this will open a new modal that allows you to choose the newly created Dynatrace forwarder schema (this can be identified via its Dynatrace icon).
 * Confirm your selection by clicking **`OK`**.
 * A successful mapping is indicated by a popup showing that namespace-application pairs are connected with respective forwarders; additionally, you'll notice an updated Namespace Forwarder status in effect.
 * Your logs are now being forwarded to Dynatrace.
@@ -41,4 +41,3 @@ Name:          Dynatrace
 <figure><img src="../.gitbook/assets/Screenshot from 2023-01-03 17-56-17.png" alt=""><figcaption><p>Selecting Dynatrace forwarder schema as Forwarder</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-01-03 17-56-30.png" alt=""><figcaption><p>Successful Mapping of Forwarder</p></figcaption></figure>
-
