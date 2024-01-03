@@ -1,5 +1,5 @@
 ---
-description: This page explains how to forward logs to New Relic from Apica
+description: This page explains how to forward logs to Elasticsearch from Apica.
 ---
 
 # Elasticsearch Forwarding
