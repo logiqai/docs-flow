@@ -35,12 +35,8 @@ By introducing a pipeline control layer to your existing observability system li
 3. LogFlow stores all its data in [**InstaStore**](architecture/instastore.md), our hot store platform built on any object-store. When any data is needed that is not in your target system, LogFlow provides instant replay to your target system on demand
 4. Reduce your restricted capital commitments by meaningfully lowering TCO by an average of 55% and gain new investment opportunities to drive competitive initiatives and differentiate your business.
 
-&#x20;Organizations can comprehensively secure and protect your data far easier than ever by eliminating “blind spots” while enabling 100% of your data to be instantly available for SecOps and DevOps teams. Simplify enterprise oversight and gain new control over data streams. Apica's LogFlow equals strategic empowerment for your digital future with new enterprise agility - never-before-possible control for your strategic and tactical teams to drive change management and meet “what’s next".
+Organizations can comprehensively secure and protect your data far easier than ever by eliminating “blind spots” while enabling 100% of your data to be instantly available for SecOps and DevOps teams. Simplify enterprise oversight and gain new control over data streams. Apica's LogFlow equals strategic empowerment for your digital future with new enterprise agility - never-before-possible control for your strategic and tactical teams to drive change management and meet “what’s next".
 
 ### Download whitepaper
 
 {% file src=".gitbook/assets/WhitePaper-Observability-Pipeline-Control.pdf" %}
-
-\
-
-
