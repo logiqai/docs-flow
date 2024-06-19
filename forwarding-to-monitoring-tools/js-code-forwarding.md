@@ -8,9 +8,15 @@ description: >-
 
 ### Overview
 
-The JS Code forwarder is a robust batch processing tool designed to efficiently handle and forward batches of events. It supports forwarding arrays of event objects to a specified endpoint, and includes built-in functions for recording metrics, making HTTP requests, and logging.\
-\
-Implementation
+The **JS Code forwarder** is a robust batch processing tool designed to efficiently handle and forward batches of events. It supports forwarding arrays of event objects to a specified endpoint, and includes built-in functions for recording metrics, making HTTP requests, and logging.
+
+This forwarder, equipped with JavaScript execution capabilities, revolutionises log shipping by allowing users to dynamically process transported logs in real-time with custom JavaScript functions.
+
+For example, users can define JavaScript functions to scan incoming logs, identify specific patterns or anomalies, and automatically trigger actions, like filing tickets in response to detected issues. This seamless integration of JavaScript-based log processing directly within the forwarder streamlines the log management workflow, enabling organisations to swiftly and efficiently respond to critical events or conditions detected within their log data, thereby enhancing operational efficiency and proactive incident management.
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>JS Code Forwarder in forwarders section</p></figcaption></figure>
+
+## Implementation
 
 #### Batch Forwarding
 

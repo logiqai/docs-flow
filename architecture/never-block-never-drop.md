@@ -12,10 +12,10 @@ description: >-
 
 Data pipelines have the interesting problem of dealing with the source, problems at the forwarding destination, and managing their own scale and reliability. A pipeline inadequately sized for storage and elasticity means one simple thing - **data loss.**
 
-Sources of data can cause sudden increases in data bursts for a variety of reasons such as an error scenario causing lots of log data to be generated, more users coming live, etc. to name a few.&#x20;
+Sources of data can cause sudden increases in data bursts for a variety of reasons such as an error scenario causing lots of log data to be generated, more users coming live, etc. to name a few.
 
 {% hint style="danger" %}
-### Don't accept data loss!
+#### Don't accept data loss!
 {% endhint %}
 
 #### Never Block
@@ -28,7 +28,7 @@ When forwarding data to target systems, it is not uncommon to have network parti
 
 #### Infinite data reservoir
 
-The only way to address the pipeline source and destination mismatch is to have an attached infinite data reservoir. This has traditionally not been possible due to the limitations of disk-based designs.&#x20;
+The only way to address the pipeline source and destination mismatch is to have an attached infinite data reservoir. This has traditionally not been possible due to the limitations of disk-based designs.
 
 Apica solves this with InstaStore. Our storage layer is built on an object-store as a primary storage layer, but unlike most approaches to using object storage, which use it as a secondary tier, we use it as a primary tier and index 100% of the data. All our data as well as metadata is stored in object storage.
 
@@ -51,14 +51,3 @@ Build your data pipelines from day 0 with infinite storage that can act as an en
 Apica's LogFlow is built on Kubernetes and works with Cluster Autoscaling and Horizontal Pod Autoscaling providing instant throughput on-demand in high volume data environments.
 
 ![Native Kubernetes design makes platform elastically scale on-demand](../.gitbook/assets/ArchitectureBlock.png)
-
-
-
-
-
-
-
-
-
-
-
